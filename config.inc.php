@@ -5,4 +5,3 @@
 	define('TPLPREFIX', 'html');                           //模板文件的后缀名
 	define('TPLSTYLE', '/');                        //默认模板存放的目录
 	
-	// static version file
